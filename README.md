@@ -21,6 +21,7 @@ The code controls a pneumatic clutch and two servo motors for gear shifting. Eac
 8. **Relay Module**: For controlling the pneumatic valve.
 9. **Compressed Air Source**: Compressor or compressed air tank.
 10. **Hoses and Connectors**: For connecting the valve, cylinder, and compressed air source.
+11. **Pressure reducer**: for the outlet of the pneumatic cluch cylinder, so you can slowly engage the cluch
 
 #### Connection Plan
 - **Pneumatic Clutch**:
