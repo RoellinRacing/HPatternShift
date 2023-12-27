@@ -23,6 +23,13 @@ The code controls a pneumatic clutch and two servo motors for gear shifting. Eac
 10. **Hoses and Connectors**: For connecting the valve, cylinder, and compressed air source.
 11. **Pressure reducer**: for the outlet of the pneumatic cluch cylinder, so you can slowly engage the cluch
 
+# Videos
+You need all the parts you see here:
+https://www.instagram.com/reel/C0_A3zPI9OU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+and those you see here:
+https://www.instagram.com/reel/CylktuAssMe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+
+
 #### Connection Plan
 - **Pneumatic Clutch**:
   - To Pin 2 of the Arduino.
