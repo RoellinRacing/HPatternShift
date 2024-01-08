@@ -3,6 +3,7 @@ Shifting with H Patern gearboxes. incl. Clutch automation
 
 # *********************************************************************************************
 # Project Developed by @carbon_GTV , support me on instagram, also donations are very welcome!
+# https://www.paypal.com/donate/?hosted_button_id=97RF22P434J84
 # *********************************************************************************************
 
 ### Paddleshift Control for H-Pattern Gearbox
